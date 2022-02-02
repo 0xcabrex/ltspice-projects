@@ -6,8 +6,8 @@ LINE Normal 32 -32 32 0
 LINE Normal 32 96 32 64
 LINE Normal -32 16 0 16
 LINE Normal -32 48 0 48
-LINE Normal 48 0 0 0
 LINE Normal 48 64 0 64
+LINE Normal 48 0 0 0
 ARC Normal 16 0 80 64 48 64 48 0
 PIN 112 32 RIGHT 8
 PINATTR PinName Y
